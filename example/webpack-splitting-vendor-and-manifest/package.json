@@ -1,0 +1,14 @@
+{
+  "name": "script-tag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "rm -rf ./dist && webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jsx-loader": "^0.13.2"
+  }
+}
