@@ -4,7 +4,7 @@
 
 ### [Watch Slides → ](https://caojiele.com/js-module-introduce-myself)
 
-![qrcode.png](https://cdn.nlark.com/yuque/0/2019/png/338441/1562599777133-a5c1f1e1-f9d7-4f62-86d0-5eed3f88ce1f.png)
+![qrcode.png](https://cdn.nlark.com/yuque/0/2019/png/338441/1562683998026-42937005-a1e6-43cb-b51e-6aacf2952a56.png)
 
 ### Content
 
